@@ -1,4 +1,4 @@
-package Condicionais.desafios;
+package Condicionais;
 
 import java.util.Scanner;
 

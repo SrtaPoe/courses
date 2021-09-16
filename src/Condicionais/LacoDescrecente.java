@@ -1,4 +1,4 @@
-package Condicionais.desafios;
+package Condicionais;
 
 public class LacoDescrecente {
     public static void main(String[] args) {
